@@ -1,0 +1,912 @@
+Fecha: 2024-05-30 15:05:03.660049, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:05:03.743832, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 15:05:03.767938, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 15:05:03.783786, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 15:05:03.801404, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 15:05:08.931578, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:05:08.994293, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:05:09.681072, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:05:09.773402, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:05:09.780371, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:05:09.870386, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:05:09.876583, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:05:12.880401, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:05:12.897484, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:05:18.813219, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:05:21.819861, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:05:21.829923, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:05:23.730463, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 15:05:28.801309, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 15:05:28.811604, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 15:05:28.842464, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 15:05:33.980122, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:05:34.062898, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:05:34.097314, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:05:34.115011, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:05:34.117907, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:05:34.187185, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:05:34.222830, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:05:34.229252, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:05:36.998122, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:05:39.855968, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:05:39.895556, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:05:39.902615, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:05:53.668336, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 15:05:53.714658, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 15:05:53.757873, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 15:05:53.786190, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 15:05:56.839266, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:05:59.841574, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:06:02.843935, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:06:02.963151, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:06:02.970158, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:06:05.788960, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:06:05.795028, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:06:05.968109, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:06:08.882214, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:06:08.999094, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 15:06:13.651467, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 15:06:13.662639, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 15:06:18.730606, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:08:35.772569, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:08:35.779665, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:08:35.788635, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:08:35.821336, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:08:35.835194, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:08:35.855182, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:08:35.893066, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:08:35.955785, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 16:08:41.038115, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:08:41.044279, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:08:41.063579, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:08:41.069818, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:08:44.756204, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:08:47.904573, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:08:47.974378, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:08:47.980563, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:08:50.875368, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:08:50.879170, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:08:53.912227, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:08:53.990156, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:09:12.656256, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:09:13.072522, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:09:13.090375, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:09:13.096387, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:09:13.103936, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:09:15.875068, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:09:15.919617, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:09:15.927018, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:09:15.938895, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:56:15.522406, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:56:15.539377, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:56:15.545338, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:56:15.550879, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:56:15.558824, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:56:15.566143, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:56:20.840285, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:56:20.845827, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:56:27.519281, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:56:27.555600, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:56:27.562887, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:56:27.636831, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:56:27.639151, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:56:35.521021, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:56:35.533908, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:56:35.542442, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:56:35.556932, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:56:35.570216, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:56:45.736197, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:56:45.778243, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:56:45.812409, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:56:45.819506, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:56:45.916887, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:56:45.930133, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:56:46.039487, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:56:51.651655, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:56:54.685322, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:56:54.686917, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:56:54.788418, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:56:55.528676, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:56:55.554734, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:56:55.563762, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:56:55.645347, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 16:57:00.805120, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:00.831956, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:03.670055, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:06.714713, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:12.861286, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:12.867670, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:12.874224, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:20.599125, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:57:20.603898, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:57:20.631744, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:57:20.762767, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: El valor de humedad es inferior al minimo permitido, Origen del sensor: Humedad, Tipo de alerta: Alta
+Fecha: 2024-05-30 16:57:25.855255, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:25.937260, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:25.963749, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:26.081963, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:26.081963, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:26.088807, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:27.864012, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:27.870808, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:27.963960, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:27.963960, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:30.887392, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:30.982005, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:33.902504, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:33.908677, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:35.597459, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:57:35.604429, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:57:35.611799, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:57:35.618200, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:57:35.716264, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 16:57:36.996029, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:40.012455, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:42.853061, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:42.861831, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:46.024454, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:48.966176, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:48.970786, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:49.061204, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:52.059753, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:52.063411, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:54.947062, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:55.020171, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:55.026603, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:57:55.067597, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:59:55.310853, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:59:55.348748, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:59:55.356854, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 16:59:55.388737, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:59:55.397563, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 16:59:55.479153, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 16:59:55.501681, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 16:59:55.559294, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 16:59:55.565076, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 16:59:58.335723, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:00:01.398651, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:00:04.390959, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:00:04.390959, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:00:04.406478, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:00:04.542632, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:00:07.419297, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:04:41.512985, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:04:41.569466, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:04:41.585306, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:04:41.591636, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:04:41.622292, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:04:46.754984, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 17:04:47.527307, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:04:53.598618, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:04:53.791165, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:04:56.724517, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:05:01.630884, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:05:06.667539, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:05:06.746883, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:05:11.903711, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:05:11.910884, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:05:11.917412, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:05:11.938270, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:05:12.007833, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:05:12.013664, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:05:12.091011, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:05:12.128712, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:05:12.195080, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:05:12.234574, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:05:12.236793, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:05:14.675484, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:05:14.691231, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:05:14.910927, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:05:17.723915, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:05:17.730736, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:05:17.743859, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:05:20.732983, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:05:20.756310, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:05:20.806422, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:05:20.941310, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:05:21.606938, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:05:21.660149, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:05:21.741734, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:05:32.053178, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:05:32.087729, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:04.355995, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:04.487822, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:18:09.744253, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:10.423336, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:10.537142, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:16.433540, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:16.443681, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:16.453158, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:16.508840, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:19.595189, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:29.490762, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:18:29.510192, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:18:29.515121, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:18:29.521135, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 17:18:29.613905, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 17:18:34.665621, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:18:34.673027, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:18:34.691403, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:34.705750, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:34.779292, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:34.946410, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:34.980610, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:35.004526, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:35.015319, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:35.053658, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:35.057577, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:35.077832, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:40.542090, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:40.546134, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:40.556433, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:40.698067, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:43.627332, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:43.633662, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:43.720327, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:44.487022, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:18:44.524064, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:18:54.667621, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:18:54.672621, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:18:54.695846, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 17:18:54.716917, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:54.807958, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:54.827853, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:54.859812, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:55.633866, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:55.643315, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:18:55.651209, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:19:01.609560, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:19:04.484920, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:19:04.618531, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:19:04.625389, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 17:19:04.690655, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:19:04.757306, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:19:04.764765, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:19:04.769779, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:19:07.671269, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:19:07.691990, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:19:23.257266, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:19:24.486892, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:19:24.543968, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:19:24.551359, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:19:24.678321, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:19:24.695583, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: El valor de humedad es inferior al minimo permitido, Origen del sensor: Humedad, Tipo de alerta: Alta
+Fecha: 2024-05-30 17:19:29.755859, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:19:29.757153, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:19:29.771040, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:19:29.887758, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:19:32.182223, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:19:38.300274, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:19:44.218794, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:19:44.235421, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:19:44.354036, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:19:44.492807, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:19:44.694197, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 17:19:44.722129, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:19:44.738759, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:21:48.010586, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:21:48.020540, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:21:48.036050, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:21:48.051842, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:21:48.076162, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:21:48.083406, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:21:53.251999, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:21:54.003980, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:21:54.032890, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:21:57.039934, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:00.173238, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:00.181293, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:03.044229, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:03.050238, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:03.079004, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:03.086724, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:03.093689, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:03.173679, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:06.033337, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:06.072868, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:06.107787, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:08.007764, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:22:08.053125, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:22:08.073264, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:22:08.121268, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:22:08.129171, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:22:08.172782, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 17:22:08.180118, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 17:22:08.185412, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 17:22:09.060544, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:09.066563, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:12.088758, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:12.096745, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:12.103878, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:12.116123, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:12.128934, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:15.134853, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:18.102630, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:18.107192, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:18.146272, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:24.149883, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:24.191722, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:24.206051, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:24.211230, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:28.032623, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:22:28.039098, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:22:33.089446, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:22:33.093096, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:22:38.221613, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:22:38.326106, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:38.338354, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:38.516045, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:39.211061, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:45.267507, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:45.426189, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:22:58.455147, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:22:58.482640, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:22:58.495510, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:22:58.501726, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:22:58.592431, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:22:58.682670, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 17:23:07.741108, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:07.786269, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:10.800364, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:10.800364, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:10.807164, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:13.457955, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:13.809456, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:16.745869, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:16.870912, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:16.876927, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:16.883887, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:18.490153, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:23:28.573486, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:23:28.579020, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 17:23:28.668798, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:28.696585, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:28.703530, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:28.710314, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:28.717138, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:28.737412, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:28.744840, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:28.765481, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:28.772935, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:28.779068, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:28.784703, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:28.957281, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:28.971105, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:31.876912, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:31.967215, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:31.981293, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:31.988210, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:34.551004, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:34.984043, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:37.900158, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:38.017135, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:38.031203, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:38.039108, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:38.473215, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:23:38.486231, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:23:38.500572, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:23:38.507962, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:23:38.514207, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:23:38.598092, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 17:23:38.609500, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: El valor de humedad es inferior al minimo permitido, Origen del sensor: Humedad, Tipo de alerta: Alta
+Fecha: 2024-05-30 17:23:43.664055, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 17:23:43.700052, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 17:23:43.706062, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 17:23:43.748905, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:43.755080, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:43.761093, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:44.005053, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:47.076934, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:23:47.084016, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:29:31.641322, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:29:31.665170, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:29:36.723127, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 17:29:41.912817, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:29:41.952317, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:29:41.976009, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:29:41.981567, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:29:42.005623, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:29:42.061297, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:29:42.061297, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:29:52.118515, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:29:52.123040, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:29:52.163646, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:29:52.199264, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:29:52.206607, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:29:57.313873, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:29:57.342931, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:29:57.405814, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:29:57.464944, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:29:58.450166, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:30:04.472725, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:30:07.380821, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:30:07.389465, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:30:07.397303, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:30:07.478013, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:30:10.318088, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:30:12.164187, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:30:17.212561, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:30:17.232856, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 17:30:17.324709, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 17:30:17.352457, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:30:17.395161, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:30:17.401468, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:30:17.413883, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:30:17.490505, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:30:19.398104, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:30:19.433277, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:30:19.438809, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:30:19.486855, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:30:25.404819, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:30:25.485572, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:30:28.415134, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:30:31.535779, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:30:31.544665, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:30:31.588697, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:30:32.206919, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:30:32.213750, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:30:32.220635, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:30:32.234492, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:30:32.248669, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:30:37.290529, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 17:30:37.391758, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:30:37.397348, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:30:37.531487, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:30:37.553442, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:30:40.474483, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:30:40.573620, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:30:40.580690, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:30:40.629224, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:33:37.555691, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:33:37.579252, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:33:37.618136, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:33:42.734643, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 17:33:42.740261, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 17:33:42.766941, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 17:33:42.847070, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:33:46.667888, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:33:49.702115, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:33:49.813295, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:33:52.833603, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:33:55.728534, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:33:57.647678, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:34:02.790847, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:34:02.928800, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:39:05.984130, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:39:06.042168, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:39:06.045162, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:39:06.058290, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:39:06.085899, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:39:06.124507, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:39:06.132510, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:39:11.338076, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:39:12.037132, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:39:14.992444, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:39:18.095507, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:39:18.112227, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:39:21.019573, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:39:21.180508, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:39:31.119517, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:39:31.124705, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:39:31.131285, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:39:31.131285, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:39:31.143302, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:39:31.163998, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 17:39:36.339606, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:39:36.345629, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:39:36.351961, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:39:36.415031, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:39:36.456203, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:39:36.525623, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:39:39.324020, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:39:39.330708, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:39:49.834419, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:39:49.842424, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:39:49.864931, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:39:49.903332, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:39:49.914848, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:39:49.914848, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:39:49.934388, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:39:49.970570, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:39:50.020878, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 17:39:55.817424, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:39:55.859154, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:39:58.996600, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:40:02.003525, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:40:04.926321, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:40:07.854449, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:40:07.859714, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:40:07.995206, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:40:09.880095, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:40:14.914733, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:40:19.997478, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 17:40:20.288834, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:40:20.308571, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:40:20.330280, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:40:23.162742, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:40:26.164916, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:49:24.226668, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:49:24.271324, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:49:29.475963, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:49:29.483139, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:49:30.183823, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:49:30.199052, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:49:30.205316, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:49:33.362824, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:49:36.364913, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:49:39.242350, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:49:39.250514, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:49:39.254239, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:49:42.427990, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:49:42.433624, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:49:42.439865, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:49:44.190334, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:49:49.245771, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:49:49.251801, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:49:49.336781, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 17:49:49.346042, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 17:49:49.355508, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-30 17:49:49.365142, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-30 17:49:54.433122, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:49:54.482441, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:49:54.496536, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:49:54.545001, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:49:54.579880, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:49:54.662768, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:49:54.690621, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:49:54.697715, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:49:57.373147, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-30 17:49:57.381242, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:28:30.095799, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:28:30.159593, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 12:28:30.238245, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 12:28:30.330913, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 12:28:30.354311, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 12:28:30.370363, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 12:28:35.816113, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:28:36.438567, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:28:42.550725, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:28:42.567394, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:28:42.593214, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:28:42.624608, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:28:45.581073, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:28:55.440506, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 12:28:55.469767, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 12:28:55.517681, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 12:28:55.546511, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 12:29:00.937507, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:29:01.083617, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:29:01.294165, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:29:01.307462, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:29:01.317753, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:29:01.365065, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:29:01.500915, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:29:03.564983, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:29:03.594979, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:29:03.618499, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:29:03.635463, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:29:03.651457, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:29:06.612844, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:29:06.643238, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:29:06.658231, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:29:06.668639, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:29:06.694662, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:29:06.706323, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:29:10.266621, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 12:32:06.838446, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:32:06.864688, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:32:06.891706, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:32:06.905873, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 12:32:07.002163, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 12:32:07.037863, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 12:32:07.077288, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 12:32:07.098775, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 12:32:07.109776, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 12:32:12.933316, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:32:12.944757, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:32:12.959492, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:32:12.984957, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:32:15.878157, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:40:31.044203, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 12:40:31.069430, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 12:40:31.165835, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 12:40:31.245321, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 12:40:31.256335, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 12:40:31.363940, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 12:40:34.001582, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:40:34.014630, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:40:34.028163, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:40:34.125460, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:40:36.953890, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:40:37.191546, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:40:39.913640, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:40:40.116096, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:40:40.163315, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 12:40:51.009480, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 12:40:51.094531, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 12:40:51.110827, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 12:40:51.127832, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 12:41:11.037729, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 12:41:11.342626, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 12:41:11.612810, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 12:41:11.626947, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 12:41:11.650949, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 12:41:13.435970, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:18:21.292637, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:18:21.324491, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:18:21.379976, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:18:21.498795, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:18:21.529948, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:18:21.543371, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:18:21.637266, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:18:21.686864, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:18:21.699444, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:18:21.815748, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 13:18:27.423513, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:18:36.758511, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:18:36.825732, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:18:36.843501, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:18:39.644555, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:18:39.700749, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:18:41.447141, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:18:41.467811, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:18:41.505948, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:18:41.531769, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:18:41.543450, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:18:41.574838, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 13:18:51.716877, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:18:51.902895, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:43:30.161152, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:43:30.174200, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:43:30.280974, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:43:30.363679, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:43:30.387694, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:43:30.402081, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:43:30.417926, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:43:30.430555, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:43:35.733877, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:43:35.843488, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:43:36.340561, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:43:36.361591, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:43:36.385986, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:43:39.386519, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:43:39.421605, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:43:45.330077, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:43:45.483272, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:43:45.519277, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:43:45.544595, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:43:45.564970, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:43:48.449904, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:43:50.294794, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:43:50.355075, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:43:50.371143, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:43:50.421835, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:43:50.456937, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 13:43:50.542512, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 13:43:55.794083, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:43:55.893480, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:43:56.051564, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:43:56.117477, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:43:57.542897, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:49:35.056963, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:49:35.071342, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:49:35.084335, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:49:35.180653, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:49:35.211643, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:49:35.271744, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 13:49:40.516525, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:49:40.534541, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:49:40.560759, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:49:44.237190, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:49:44.253181, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:49:44.294662, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:49:44.279164, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:49:50.192135, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:49:50.358064, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:49:53.218457, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:49:55.118110, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:50:00.373281, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:50:00.388617, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:50:00.410870, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:50:00.431377, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:50:00.561299, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:50:00.756992, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:50:00.768993, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:50:00.794214, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:50:08.399078, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:50:08.729046, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:50:08.831346, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:50:08.871135, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:50:08.892143, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:50:11.667877, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:50:11.702601, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:50:15.203704, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:50:15.273899, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: El valor de humedad es inferior al minimo permitido, Origen del sensor: Humedad, Tipo de alerta: Alta
+Fecha: 2024-05-31 13:50:30.764002, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:50:31.310484, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:50:31.393898, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:52:23.782206, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:52:23.795651, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:52:23.812613, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:52:23.825828, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:52:23.874740, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:52:23.903380, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:52:23.918576, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:52:30.248549, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:52:32.993948, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:52:32.999427, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:52:35.817910, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:52:35.841060, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:52:42.399497, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:52:42.420993, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:52:43.825933, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:52:54.463733, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:52:54.479713, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:52:54.515258, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:52:54.540194, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:52:54.559171, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:52:54.572166, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:52:54.740266, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:52:55.032375, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:52:55.044377, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:52:55.060577, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:52:55.362041, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:52:55.379486, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:52:55.395499, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:52:57.546472, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:52:57.566762, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:52:57.591800, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:52:57.610968, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:53:03.822172, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:53:03.848692, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:53:03.877676, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:53:04.218865, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 13:53:04.244005, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 13:53:04.261137, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 13:53:04.289423, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 13:56:10.626986, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:56:10.657831, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:56:10.705346, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:56:10.719936, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:56:10.747428, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:56:10.783377, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:56:10.802514, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: El valor de humedad es inferior al minimo permitido, Origen del sensor: Humedad, Tipo de alerta: Alta
+Fecha: 2024-05-31 13:58:04.887035, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:58:05.019704, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:58:05.123305, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:58:48.027937, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 13:58:48.033397, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:58:48.142648, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:58:48.204790, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:58:48.217786, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:58:48.235051, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:58:48.284017, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 13:58:48.405154, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 13:58:48.462714, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 13:58:48.484388, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:10:24.964592, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:10:25.014635, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:10:25.034312, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:10:25.107183, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:10:25.120170, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:10:30.566041, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 14:10:30.580961, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 14:23:57.459344, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 14:23:57.482222, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 14:23:57.494410, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 14:23:57.505390, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 14:23:57.536807, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 14:23:57.567338, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:23:57.594896, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:23:57.697404, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:23:57.719295, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:23:57.740104, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:23:57.796393, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:23:57.907133, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:24:03.574360, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 14:24:03.602989, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 14:24:03.719736, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 14:24:06.648692, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 14:24:06.669305, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 14:24:06.681302, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 14:24:12.862273, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 14:24:12.879070, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 14:24:15.879187, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 14:24:17.574533, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:24:17.620106, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:24:17.634241, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:24:22.764111, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:24:22.788710, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:24:27.990847, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:24:28.000839, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:24:28.010047, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:24:28.631181, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 14:24:28.685906, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 14:24:28.697269, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 14:24:28.719454, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 14:28:50.752244, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 14:28:50.786889, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:28:50.805300, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:28:50.962411, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:28:50.987036, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:28:51.020522, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:28:51.052423, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:28:51.100409, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:28:51.161479, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:28:51.178477, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:28:51.194641, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:28:51.237625, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:29:13.988246, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:29:14.102529, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:29:14.160745, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:29:14.172744, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:29:14.181137, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:29:14.195229, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:29:14.207203, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:29:14.218586, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:29:14.226586, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:29:14.235587, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:29:39.039737, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:29:39.103878, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:29:39.149423, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:29:39.181248, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:29:39.344283, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: El valor de humedad es inferior al minimo permitido, Origen del sensor: Humedad, Tipo de alerta: Alta
+Fecha: 2024-05-31 14:29:53.913020, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:29:53.937962, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:29:53.949017, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:33:24.226498, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 14:33:24.296423, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 14:33:24.352176, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:33:24.539771, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:33:24.682190, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:34:29.803388, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 14:34:29.868623, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 14:34:29.884642, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 14:34:29.909941, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:34:34.971565, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:34:34.996588, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:34:35.013253, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:34:35.109520, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:34:35.122510, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:34:35.144682, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:34:35.158685, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:34:35.173842, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:34:35.188841, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:34:35.204799, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:34:40.355075, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:34:40.368936, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:34:40.381855, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 14:34:40.393865, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 14:36:36.462194, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:36:36.475543, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:36:36.518536, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:36:36.526067, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:36:36.611218, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:36:36.624513, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:36:36.661140, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:36:36.746595, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:36:36.760063, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:36:56.496030, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:36:56.668073, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:36:56.679070, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:36:56.735108, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:37:16.484796, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:37:16.521817, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:37:21.790656, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:37:31.990500, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:37:32.009235, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:37:36.693273, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 14:37:36.867871, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 14:37:36.890998, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
+Fecha: 2024-05-31 15:05:20.729092, Origen del sensor: humo, Tipo de alerta: Datos Incorrectos
+Fecha: 2024-05-31 15:05:21.085758, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 15:05:21.111978, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 15:05:21.125130, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 15:05:21.146530, Origen del sensor: temperatura, Tipo de alerta: Alerta: temperatura fuera de rango
+Fecha: 2024-05-31 15:05:21.273493, Origen del sensor: humedad, Tipo de alerta: Alerta: humedad fuera de rango
